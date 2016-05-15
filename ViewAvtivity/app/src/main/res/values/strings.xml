@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewAvtivity</string>
+    <string name="textView">从XML中配置TextView</string>
+    <string name="web_name">网页版WebView测试</string>
+    <string name="menu_string">Menu菜单测试</string>
+    <string name="button_string">Button按钮测试</string>
+    <string name="editview_string">EditText编辑框测试</string>
+    <string name="checkbox_string">多项选择测试</string>
+</resources>

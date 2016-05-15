@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListViewPractice</string>
+    <string name="bt_1">简单的ListView列表</string>
+    <string name="bt_2">带标题的ListView列表</string>
+    <string name="bt_3">带图片的ListView列表</string>
+    <string name="bt_4">自定义的BaseAdapter颜色</string>
+    <string name="bt_5">自定义ArrayAdapter颜色</string>
+</resources>

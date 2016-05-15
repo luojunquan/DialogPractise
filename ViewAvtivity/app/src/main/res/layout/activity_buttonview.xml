@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/button_string"
+    android:gravity="center_horizontal|center_vertical"
+    android:textColor="#000"
+    android:textSize="25dp"/>
+    <Button
+        android:id="@+id/bt_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="这是一个按钮"
+        android:onClick="click1"/>
+    <ImageButton
+        android:id="@+id/ib_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/in_icon"
+        android:onClick="click2"/>
+</LinearLayout>
